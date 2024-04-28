@@ -5,7 +5,7 @@
 ## Education
 - Nanyang Technological University (_2023 - 2027_) | Data Science & Artificial Intelligence
 - National Junior College (_2021- 2022_)
-- Cresent Girls' School (_2017 - 2020_)
+- Crescent Girls' School (_2017 - 2020_)
   
 ## Work Experience
 
